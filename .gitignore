@@ -1,0 +1,6 @@
+# Project exclude paths
+/target/
+.idea
+/tomcat.8080/
+**/node_modules/
+*.iml
