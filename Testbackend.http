@@ -1,0 +1,11 @@
+
+GET http://localhost:8080/api/hello
+Accept: application/json
+
+###
+POST http://localhost:8080/api/giraffes
+
+johny
+###
+GET http://localhost:8080/api/giraffes
+Accept: application/json
